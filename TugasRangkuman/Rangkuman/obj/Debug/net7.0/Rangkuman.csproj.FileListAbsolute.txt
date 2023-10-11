@@ -1,0 +1,14 @@
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\bin\Debug\net7.0\Rangkuman.exe
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\bin\Debug\net7.0\Rangkuman.deps.json
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\bin\Debug\net7.0\Rangkuman.runtimeconfig.json
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\bin\Debug\net7.0\Rangkuman.dll
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\bin\Debug\net7.0\Rangkuman.pdb
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.AssemblyInfoInputs.cache
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.AssemblyInfo.cs
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.csproj.CoreCompileInputs.cache
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.dll
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\refint\Rangkuman.dll
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.pdb
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\Rangkuman.genruntimeconfig.cache
+C:\Users\blub\OneDrive\Desktop\TugasRangkuman\Rangkuman\obj\Debug\net7.0\ref\Rangkuman.dll
